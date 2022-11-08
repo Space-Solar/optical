@@ -1,6 +1,6 @@
 # optical
 
-##Original Readme:
+## Original Readme:
 
 A GPL Optical simulation program for mixed coherent / incoherent multilayer systems
 
@@ -20,7 +20,7 @@ Whenever refering to "Optical", please cite a reference to the following publica
 
 More info can be found in [Optical web page](https://www.centu.it/optical)
 
-##Changes in this fork
+## Changes in this fork
 
 Removed the GUI, so that the package can be imported in other scripts to allow for easy data extraction and simulation.
 Removed the experiment import/analysis capability.
