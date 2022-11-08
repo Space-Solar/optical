@@ -1,6 +1,6 @@
 # optical
 
-## Original Readme:
+## Original Readme
 
 A GPL Optical simulation program for mixed coherent / incoherent multilayer systems
 
