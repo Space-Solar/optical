@@ -1,5 +1,7 @@
 # optical
 
+##Original Readme:
+
 A GPL Optical simulation program for mixed coherent / incoherent multilayer systems
 
 Features and capabilities:
@@ -17,3 +19,8 @@ Is a Python cross-platform software released under the GPL license
 Whenever refering to "Optical", please cite a reference to the following publication: E.Centurioni, "Generalized matrix method for calculation of internal light energy flux in mixed coherent and incoherent multilayers", Applied Optics, Vol. 44, No. 35 (2005), pp 7532-7539.
 
 More info can be found in [Optical web page](https://www.centu.it/optical)
+
+##Changes in this fork
+
+Removed the GUI, so that the package can be imported in other scripts to allow for easy data extraction and simulation.
+Removed the experiment import/analysis capability.
